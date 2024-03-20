@@ -10,4 +10,4 @@ A car rental company has requested you to develop an online platform for renting
 
 For simplicity, let’s assume that:
 - Customers may rent cars using one of the following options: hourly, daily, or weekly rental.
-- Customers can freely choose the number of cars they wish to rent as long as the quantity of available cars exceeds their requested amount.
+- Customers can freely choose the number of cars they wish to rent as long as the quantity of available cars exceeds their requested amount
